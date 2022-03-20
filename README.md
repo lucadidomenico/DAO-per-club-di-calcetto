@@ -1,11 +1,6 @@
-# buildspace x thirdweb - Build your own DAO with just Javascript
+# Una DAO (Decentralized-Autonomous-Organization) per un ipotetico club di calcetto.
 
-### **Welcome 👋**
-To get started with this course, clone this repo and follow these commands:
+![image](https://user-images.githubusercontent.com/56132403/159172663-219d163d-051d-4f17-92ef-46f47794a127.png)
 
-1. Run `npm install` at the root of your directory
-2. Run `npm start` to start the project
-3. Start coding!
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/projects/COb520aae3-7925-42f4-a5e7-eaf718933766) and link your Discord account so you can get access to helpful channels and your instructor!
+Deployed here: https://dao-per-club-di-calcetto.vercel.app/
